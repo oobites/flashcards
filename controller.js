@@ -2,6 +2,7 @@
  * controller.js
  * Controls the state of the flashcard app using an instance of a Deck
  * requires makeKey() function defined in cards.js
+ *
  */
 
 // Contoller globals

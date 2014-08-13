@@ -3,6 +3,7 @@
  * Test for the Card class
  * Test case for Google-JS-Test http://code.google.com/p/google-js-test/
  * command: gjstest --js_files=card.js,test_cards.js,deck.js,test_deck.js
+ * 
  */
  
  var localStorage = new Object();

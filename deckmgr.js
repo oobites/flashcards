@@ -2,6 +2,7 @@
  * deckmgr.js
  * Defines a Deck Manager class to manage decks of flashcards. The deckmgr holds references to decks
  * and holds the viewing preferences
+ *
  */
 
 //deck constructor

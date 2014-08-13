@@ -2,6 +2,7 @@
  * deck.js
  * Defines a Deck class to represent a deck of flashcards. A deck holds references to
  * Card objects and viewing states
+ *
  */
 
 //deck constructor

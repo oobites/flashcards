@@ -1,3 +1,10 @@
+/*
+ Organization:
+ - Global classes at top in alphabetical order
+ - IDs interspersed
+ - sections indented (4 spaces)
+*/
+
 body[orient="portrait"] #add-another {
     position:absolute;
     bottom:2px;
